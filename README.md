@@ -1,8 +1,8 @@
-<div style="display:flex;">
+<!-- <div style="display:flex;">
 <img src="https://github.com/SreeramCharagundla/SreeramCharagundla/blob/main/idea.png">
 <img src="https://github.com/SreeramCharagundla/SreeramCharagundla/blob/main/build.png">
 <img src="https://github.com/SreeramCharagundla/SreeramCharagundla/blob/main/deploy.png">
-</div>
+</div> -->
 
 <h2>Hi &nbsp;There! 👋 &nbsp; I'm Sreeram</h2>
 

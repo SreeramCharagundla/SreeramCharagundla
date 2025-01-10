@@ -8,41 +8,61 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions with quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Software Engineering at Northeastern.\
-📄 &nbsp;Please have a look at my [Resume](https://github.com/SreeramCharagundla/SreeramCharagundla/blob/main/Sreeram%20Charagundla%20Resume.pdf) for more details about me. I'm open to feedback and suggestions!
+💡 &nbsp;Software Engineer with 2+ years of Experience building scalable applications using Java, Spring boot, Kafka, Angular, AWS, and MEAN/MERN stack.</br></br>
+🎓 &nbsp;Graduate Student from Northeastern University majoring in Computer Software Engineering.</br></br>
+📄 &nbsp;Check out my [Resume](https://github.com/SreeramCharagundla/SreeramCharagundla/blob/main/Sreeram%20Charagundla%20Resume.pdf) here.
+
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Overview of my Skills
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)\
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
+<h3> Languages </h3>
 
-### 🤝🏻 &nbsp;Connect with Me
+[![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+[![C](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
+[![C++](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
+[![Java Script](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+[![Type Script](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
+[![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+[![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+[![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
 
-<p align="center">
-<a href="https://linkedin.com/in/SreeramCharagundla"><img src="https://img.shields.io/badge/-Sreeram%20Charagundla-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:charagundla.s@northeastern.edu"><img src="https://img.shields.io/badge/-charagundla.s@northeastern.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/sreeram__/"><img src="https://img.shields.io/badge/-@sreeram__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-</p>
+<h3> Frameworks/Libraries </h3>
+
+[![Spring boot](https://skillicons.dev/icons?i=spring)](https://skillicons.dev)
+[![express](https://skillicons.dev/icons?i=express)](https://skillicons.dev)
+[![Nodejs](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+[![Angular](https://skillicons.dev/icons?i=angular)](https://skillicons.dev)
+[![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+
+<h3> Databases/Message Queues </h3>
+
+[![SQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+[![Postgres](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
+[![Redis](https://skillicons.dev/icons?i=redis)](https://skillicons.dev)
+[![DynamoDB](https://skillicons.dev/icons?i=dynamodb)](https://skillicons.dev)
+[![Kafka](https://skillicons.dev/icons?i=kafka)](https://skillicons.dev)
+[![RabbitMQ](https://skillicons.dev/icons?i=rabbitmq)](https://skillicons.dev)
+[![GraphQL](https://skillicons.dev/icons?i=graphql)](https://skillicons.dev)
+
+<h3> Technologies/Methodologies </h3>
+
+[![AWS](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
+[![Jenkins](https://skillicons.dev/icons?i=jenkins)](https://skillicons.dev)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
+[![GitLab](https://skillicons.dev/icons?i=gitlab)](https://skillicons.dev)
+[![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
+[![Postman](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+[![Kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://skillicons.dev)
+
+
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/SreeramCharagundla/)
+[![Outlook](https://skillicons.dev/icons?i=gmail)](mailto:sreeram.charagundla@outlook.com)
+
+
+

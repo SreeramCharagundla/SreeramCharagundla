@@ -9,7 +9,8 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;Software Engineer with 2+ years of Experience building scalable applications using Java, Spring boot, Kafka, Angular, AWS, and MEAN/MERN stack.</br></br>
-🎓 &nbsp;Graduate Student from Northeastern University majoring in Computer Software Engineering.</br></br>
+🎓 &nbsp;Master's in Information Systems from Northeastern University.</br></br>
+🎓 &nbsp;Bachelor's in Computer Science from Gandhi Institute of Technology.</br></br>
 📄 &nbsp;Check out my [Resume](https://github.com/SreeramCharagundla/SreeramCharagundla/blob/main/Sreeram_Resume.pdf) here.
 
 

@@ -10,7 +10,7 @@
 
 💡 &nbsp;Software Engineer with 2+ years of Experience building scalable applications using Java, Spring boot, Kafka, Angular, AWS, and MEAN/MERN stack.</br></br>
 🎓 &nbsp;Graduate Student from Northeastern University majoring in Computer Software Engineering.</br></br>
-📄 &nbsp;Check out my [Resume](https://github.com/SreeramCharagundla/SreeramCharagundla/blob/main/Sreeram%20Charagundla%20Resume.pdf) here.
+📄 &nbsp;Check out my [Resume]([https://github.com/SreeramCharagundla/SreeramCharagundla/blob/main/Sreeram%20Charagundla%20Resume.pdf](https://github.com/SreeramCharagundla/SreeramCharagundla/blob/main/Sreeram_Resume.pdf)) here.
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
